@@ -20,3 +20,8 @@
 - ctrl + shift + G --> 그룹풀기
 
 # trim --> 사진 주위에 투명한 부분 정리하여 사진크기에 맞추기 (Image > Trim)
+
+# 화면이동 --> space bar + 화면 드래그
+
+
+# 선택영역 없애기 (marquee tool) --> ctrl + D 
