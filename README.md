@@ -25,3 +25,7 @@
 
 
 # 선택영역 없애기 (marquee tool) --> ctrl + D 
+
+# 배경색 덮기 --> Alt + Delete 
+
+
