@@ -28,4 +28,7 @@
 
 # 배경색 덮기 --> Alt + Delete 
 
+# 레이어 마스크 
+
+![image](https://github.com/hodu97/photoshop/assets/145514463/dcae702c-3ad6-4746-8e9f-ceae6b48960e)
 
