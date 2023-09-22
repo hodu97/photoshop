@@ -32,3 +32,6 @@
 
 ![image](https://github.com/hodu97/photoshop/assets/145514463/dd0e9062-0d5b-4e51-a00a-e08aecc0731a)
 
+# Alt + 레이어 마스크를 클릭하면 반전으로 나오고
+
+# 이미 만들어진 레이어마스크의 컬러를 반전시키려면 Ctrl +i 
