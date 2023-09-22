@@ -30,5 +30,5 @@
 
 # 레이어 마스크 
 
-![image](https://github.com/hodu97/photoshop/assets/145514463/dcae702c-3ad6-4746-8e9f-ceae6b48960e)
+![image](https://github.com/hodu97/photoshop/assets/145514463/dd0e9062-0d5b-4e51-a00a-e08aecc0731a)
 
